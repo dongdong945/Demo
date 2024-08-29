@@ -1,0 +1,230 @@
+{
+    "code": 200,
+    "message": "SUCCESS",
+    "data": [
+        {
+            "id": 45,
+            "name": "Seated Core Workout",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/proj/workout116/img/5b784c92c9ae402c8664cd221048c4d7.png?alt=media&name=10.png",
+            "calorie": 46,
+            "duration": 824065,
+            "subscription": true
+        },
+        {
+            "id": 26,
+            "name": "Seated Simple Stretches",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/proj/workout116/img/c2407ba8b7f44963a19b467d333b53a0.png?alt=media&name=4.png",
+            "calorie": 34,
+            "duration": 749150,
+            "subscription": false
+        },
+        {
+            "id": 46,
+            "name": "Gentle Upper Stretch",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/proj/workout116/img/5f4617d5b03443f6a2a6e50dbbc4d8be.png?alt=media&name=chair+workouts5.png",
+            "calorie": 49,
+            "duration": 1048810,
+            "subscription": true
+        },
+        {
+            "id": 243763,
+            "name": "Chair Circuit Fusion",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/image/cover/f8d3f0ec911b4d03b7f0c2493145d02a.png?alt=media&name=shutterstock_2Plan4858522Plan+Plan_Seated.png",
+            "calorie": 29,
+            "duration": 524405,
+            "subscription": false
+        },
+        {
+            "id": 243768,
+            "name": "Seated Stretch and Flex",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/image/cover/039677aef6b4415a8aa59a74f708a76b.png?alt=media&name=Plan+4_Seated-5.png",
+            "calorie": 29,
+            "duration": 524405,
+            "subscription": false
+        },
+        {
+            "id": 243749,
+            "name": "Seated Aerobic Fusion",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/image/cover/e10a0c02dd6b44449b6f7ba680685b21.png?alt=media&name=09.png",
+            "calorie": 27,
+            "duration": 524405,
+            "subscription": false
+        },
+        {
+            "id": 243756,
+            "name": "Chair Zumba Fitness",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/image/cover/980d4e329a62458da81a5c2b22e8bfad.png?alt=media&name=Plan+4_Seated-Plan5.png",
+            "calorie": 33,
+            "duration": 524405,
+            "subscription": false
+        },
+        {
+            "id": 243751,
+            "name": "Core Strengthening Exercises",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/image/cover/4ce0ee72d69e42e2a6ce52e56ccc49f7.png?alt=media&name=23.png",
+            "calorie": 25,
+            "duration": 524405,
+            "subscription": false
+        },
+        {
+            "id": 243765,
+            "name": "Gentle Seated Aerobics",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/image/cover/32d302b7516e450baf7d86c0077a99fe.png?alt=media&name=22.png",
+            "calorie": 29,
+            "duration": 524405,
+            "subscription": false
+        },
+        {
+            "id": 243755,
+            "name": "Chair-based Meditation",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/image/cover/d9edff7bd6cc4a658f7fd62a89d3cb73.png?alt=media&name=shutterstock_2425753Plan9Plan+Plan_Seated.png",
+            "calorie": 27,
+            "duration": 524405,
+            "subscription": false
+        },
+        {
+            "id": 243741,
+            "name": "Upper Body Mobility Drills",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/image/cover/cdb68a52344c49c5abfcde15a7fc2e6b.png?alt=media&name=Plan+4_Seated-Plan7.png",
+            "calorie": 27,
+            "duration": 524405,
+            "subscription": false
+        },
+        {
+            "id": 243762,
+            "name": "Gentle Seated Balance Flow",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/image/cover/fae59bb2f1224b4b83e96b9661afc933.png?alt=media&name=7.png",
+            "calorie": 25,
+            "duration": 524405,
+            "subscription": false
+        },
+        {
+            "id": 243758,
+            "name": "Seated Pilates for Better Posture",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/image/cover/8329bb9a7ba24f4bb8c623920486be88.png?alt=media&name=shutterstock_Plan6Plan28Plan242Plan+Plan_Seated.png",
+            "calorie": 29,
+            "duration": 524405,
+            "subscription": false
+        },
+        {
+            "id": 243753,
+            "name": "Seated Leg Strengthening",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/image/cover/f19872144b644524bd8b1d072eac3d36.png?alt=media&name=15.png",
+            "calorie": 27,
+            "duration": 525000,
+            "subscription": false
+        },
+        {
+            "id": 243764,
+            "name": "Chair HIIT Harmony",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/image/cover/acd00286a2dd4eb695095c3a1286917a.png?alt=media&name=Plan6_Seated.png",
+            "calorie": 25,
+            "duration": 525000,
+            "subscription": false
+        },
+        {
+            "id": 243743,
+            "name": "Cardio Seated Workout",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/image/coverMale/cfb71f5306b548f486abe5691866e831.png?alt=media&name=iStock--1319485123+1.png",
+            "calorie": 22,
+            "duration": 525000,
+            "subscription": false
+        },
+        {
+            "id": 243742,
+            "name": "Seated Joint Mobility",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/image/coverMale/be892dfb6a4b401da39ddae10c278b7a.png?alt=media&name=shutterstock_2300467745+1.png",
+            "calorie": 25,
+            "duration": 525000,
+            "subscription": false
+        },
+        {
+            "id": 243745,
+            "name": "Seated Yoga for Relaxation",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/image/cover/8660895ef796485aa623eab78432f8c9.png?alt=media&name=06.png",
+            "calorie": 25,
+            "duration": 525000,
+            "subscription": false
+        },
+        {
+            "id": 243752,
+            "name": "Seated Stretching for Mobility",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/image/cover/a66819bbfcbb4dc9b65576c246498f2e.png?alt=media&name=Plan8_Seated.png",
+            "calorie": 23,
+            "duration": 525000,
+            "subscription": false
+        },
+        {
+            "id": 243766,
+            "name": "Seated Cardio Kickboxing",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/image/cover/40843cecd8144eceb515d6bcd303ecc4.png?alt=media&name=shutterstock_Plan9330PlanPlanPlan52+Plan_Seated.png",
+            "calorie": 25,
+            "duration": 525000,
+            "subscription": false
+        },
+        {
+            "id": 243750,
+            "name": "Seated Core Activation",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/image/cover/a0d0d658c2e3418ea65bd930649e3d89.png?alt=media&name=49.png",
+            "calorie": 25,
+            "duration": 525000,
+            "subscription": false
+        },
+        {
+            "id": 254495,
+            "name": "Core Strengthening Exercises",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/image/cover/4ce0ee72d69e42e2a6ce52e56ccc49f7.png?alt=media&name=23.png",
+            "calorie": 33,
+            "duration": 524405,
+            "subscription": false
+        },
+        {
+            "id": 254508,
+            "name": "Gentle Seated Balance Flow",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/image/cover/fae59bb2f1224b4b83e96b9661afc933.png?alt=media&name=7.png",
+            "calorie": 34,
+            "duration": 524490,
+            "subscription": false
+        },
+        {
+            "id": 254520,
+            "name": "Seated Stretch and Flex",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/image/cover/039677aef6b4415a8aa59a74f708a76b.png?alt=media&name=Plan+4_Seated-5.png",
+            "calorie": 33,
+            "duration": 524405,
+            "subscription": false
+        },
+        {
+            "id": 254512,
+            "name": "Chair Yoga for Back Health",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/image/cover/4bb18b8d80264ce0bb496960e8fc3bb7.png?alt=media&name=5.png",
+            "calorie": 25,
+            "duration": 524405,
+            "subscription": false
+        },
+        {
+            "id": 254515,
+            "name": "Chair Pilates Power",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/image/cover/a3b0e414f0fb4da692746ad7baf489fd.png?alt=media&name=shutterstock_Plan955PlanPlan23Plan0+Plan_Seated.png",
+            "calorie": 32,
+            "duration": 524490,
+            "subscription": false
+        },
+        {
+            "id": 254518,
+            "name": "Seated Stretch and Relaxation",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/image/cover/9e6c8aa6a54348ffb72359cd566808a0.png?alt=media&name=35.png",
+            "calorie": 37,
+            "duration": 524575,
+            "subscription": false
+        },
+        {
+            "id": 254507,
+            "name": "Upper Body Strength Training",
+            "coverImgUrl": "https://aloy.7mfitness.com/cms/image/cover/8e7fef4cd04d4267bd63124d6ae92508.png?alt=media&name=4.png",
+            "calorie": 36,
+            "duration": 524490,
+            "subscription": false
+        }
+    ]
+}
